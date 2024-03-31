@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5600/api/"
+  "proxy": "https://mern-blog-app-one-azure.vercel.app/"
 }
